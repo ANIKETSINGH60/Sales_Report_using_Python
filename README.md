@@ -56,9 +56,9 @@ Python_Analysis/
 
 > Replace the points below with your own findings from the notebook.
 
-- **Regional performance:** [Region] has the highest sales and profit, while [Region] has the lowest profit margin.
-- **Seasonality:** Sales peak in [months] and are lowest in [month].
-- **Customers:** The top 10 customers contribute [__]% of total sales.
+- **Regional performance:**  **West** has the highest sales and profit, while **Central** has the lowest profit margin.
+- **Seasonality:** Sales peak in **November** and are lowest in **february**.
+- **Customers:** The top 10 customers contribute **6.7%** of total sales.
 - **Loss-making products:** [Sub-category] and [Sub-category] generate losses and need a pricing or discount review.
 
 ## Automated Report
