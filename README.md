@@ -19,7 +19,9 @@ Business teams often rebuild the same sales reports by hand every month. This pr
 - **Data cleaning:** standardized column names, converted dates (`dd-mm-yyyy`) to datetime, removed duplicate rows
 - **Data validation:** confirmed Ship Date is never before Order Date and flagged loss-making rows
 - **Exploratory analysis:** sales and profit by region and category, monthly sales trend, top customers, loss-making sub-categories
-- **Automated reporting:** `generate_report(data, Region)` creates a 4-sheet Excel report for all regions or one selected region
+- **Automated reporting:** `generate_report(data, Region)` creates a 5-sheet Excel report for all regions or one selected region
+
+  
 
 ## Tools & Technologies
 
@@ -59,7 +61,10 @@ Python_Analysis/
 - **Regional performance:**  **West** has the highest sales and profit, while **Central** has the lowest profit margin.
 - **Seasonality:** Sales peak in **November** and are lowest in **february**.
 - **Customers:** The top 10 customers contribute **6.7%** of total sales.
-- **Loss-making products:** [Sub-category] and [Sub-category] generate losses and need a pricing or discount review.
+- **Loss-making products:** **Bookcases** , **Supplies** and **Tables** generate losses and need a pricing or discount review.
+
+    ![some analysis](result1.png)
+    ![loss profit analysis](result2.png)
 
 ## Automated Report
 
