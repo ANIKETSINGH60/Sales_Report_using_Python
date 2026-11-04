@@ -104,6 +104,6 @@ Data cleaning, data validation, exploratory data analysis, grouping and aggregat
 ## Author
 
 **Aniket Singh**
-Data Analyst | SQL, Python, Power BI, Tableau, Excel
+Data Analyst | SQL, Python, Power BI, Tableau, Advance Excel, statistic 
 
-[LinkedIn](#) | [GitHub](#) | aniketksingh60@gmail.com
+[LinkedIn](www.linkedin.com/in/aniket-singh60) | [GitHub](https://github.com/ANIKETSINGH60) | aniketksingh60@gmail.com
